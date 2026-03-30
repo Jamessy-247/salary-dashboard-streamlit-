@@ -1,10 +1,10 @@
-# 💼 Salary Intelligence Dashboard
+#  Salary Intelligence Dashboard
 
 A comprehensive, interactive data analysis dashboard built with **Streamlit** and **Plotly**, analysing salary patterns across 6,700+ professionals.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 ```bash
@@ -21,7 +21,7 @@ The dashboard will open automatically at `http://localhost:8501`
 
 ---
 
-## 📊 Dashboard Sections
+## Dashboard Sections
 
 ### Tab 1 — Overview
 - Salary histogram with mean/median lines
@@ -64,7 +64,7 @@ The dashboard will open automatically at `http://localhost:8501`
 
 ---
 
-## 🎛️ Sidebar Filters
+## Sidebar Filters
 
 All filters apply across every chart in real time:
 
@@ -80,7 +80,7 @@ All filters apply across every chart in real time:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 salary_dashboard/
@@ -94,7 +94,7 @@ salary_dashboard/
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 **Salary_Data.csv** — 6,704 records with 6 columns:
 
@@ -115,7 +115,7 @@ salary_dashboard/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Library | Purpose |
 |---------|---------|
